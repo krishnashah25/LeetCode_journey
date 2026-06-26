@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnashah25/LeetCode_journey/tree/master/0001-two-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnashah25/LeetCode_journey/tree/master/0001-two-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
