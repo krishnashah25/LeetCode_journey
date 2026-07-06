@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/krishnashah25/LeetCode_journey/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/krishnashah25/LeetCode_journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnashah25/LeetCode_journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
