@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/krishnashah25/LeetCode_journey/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/krishnashah25/LeetCode_journey/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/krishnashah25/LeetCode_journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/krishnashah25/LeetCode_journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 ## Bit Manipulation
