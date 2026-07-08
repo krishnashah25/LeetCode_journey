@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/krishnashah25/LeetCode_journey/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/krishnashah25/LeetCode_journey/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
