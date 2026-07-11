@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishnashah25/LeetCode_journey/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/krishnashah25/LeetCode_journey/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/krishnashah25/LeetCode_journey/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
