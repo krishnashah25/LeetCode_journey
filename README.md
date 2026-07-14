@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/krishnashah25/LeetCode_journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/krishnashah25/LeetCode_journey/tree/master/1051-height-checker) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krishnashah25/LeetCode_journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
