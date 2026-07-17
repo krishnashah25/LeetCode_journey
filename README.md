@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krishnashah25/LeetCode_journey/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/krishnashah25/LeetCode_journey/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/krishnashah25/LeetCode_journey/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krishnashah25/LeetCode_journey/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/krishnashah25/LeetCode_journey/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
