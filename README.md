@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krishnashah25/LeetCode_journey/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/krishnashah25/LeetCode_journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/krishnashah25/LeetCode_journey/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/krishnashah25/LeetCode_journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
