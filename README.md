@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/1470-shuffle-the-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashah25/LeetCode_journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashah25/LeetCode_journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashah25/LeetCode_journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
