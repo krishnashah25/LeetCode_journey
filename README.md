@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/krishnashah25/LeetCode_journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/krishnashah25/LeetCode_journey/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashah25/LeetCode_journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/krishnashah25/LeetCode_journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/krishnashah25/LeetCode_journey/tree/master/0441-arranging-coins) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
