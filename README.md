@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnashah25/LeetCode_journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishnashah25/LeetCode_journey/tree/master/0283-move-zeroes) |
+| [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/krishnashah25/LeetCode_journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/krishnashah25/LeetCode_journey/tree/master/0575-distribute-candies) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/krishnashah25/LeetCode_journey/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashah25/LeetCode_journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -105,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 ## Counting Sort
 |  |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
