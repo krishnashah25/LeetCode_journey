@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/krishnashah25/LeetCode_journey/tree/master/0575-distribute-candies) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/krishnashah25/LeetCode_journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krishnashah25/LeetCode_journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -122,8 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0867-transpose-matrix) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
