@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishnashah25/LeetCode_journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/krishnashah25/LeetCode_journey/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnashah25/LeetCode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/krishnashah25/LeetCode_journey/tree/master/0905-sort-array-by-parity) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishnashah25/LeetCode_journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishnashah25/LeetCode_journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnashah25/LeetCode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/krishnashah25/LeetCode_journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krishnashah25/LeetCode_journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/krishnashah25/LeetCode_journey/tree/master/1051-height-checker) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/krishnashah25/LeetCode_journey/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/krishnashah25/LeetCode_journey/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnashah25/LeetCode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnashah25/LeetCode_journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
