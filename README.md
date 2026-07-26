@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/krishnashah25/LeetCode_journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/krishnashah25/LeetCode_journey/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/krishnashah25/LeetCode_journey/tree/master/0441-arranging-coins) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnashah25/LeetCode_journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnashah25/LeetCode_journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -133,5 +134,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/krishnashah25/LeetCode_journey/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/krishnashah25/LeetCode_journey/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/krishnashah25/LeetCode_journey/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
