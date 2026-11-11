@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/krishnashah25/LeetCode_journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishnashah25/LeetCode_journey/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/krishnashah25/LeetCode_journey/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnashah25/LeetCode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnashah25/LeetCode_journey/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/krishnashah25/LeetCode_journey/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/krishnashah25/LeetCode_journey/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashah25/LeetCode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishnashah25/LeetCode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashah25/LeetCode_journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
